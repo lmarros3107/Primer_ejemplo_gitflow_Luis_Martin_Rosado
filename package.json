@@ -1,0 +1,23 @@
+{
+  "name": "primer_ejemplo_gitflow_luis_martin_rosado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmarros3107/Primer_ejemplo_gitflow_Luis_Martin_Rosado.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmarros3107/Primer_ejemplo_gitflow_Luis_Martin_Rosado/issues"
+  },
+  "homepage": "https://github.com/lmarros3107/Primer_ejemplo_gitflow_Luis_Martin_Rosado#readme",
+  "dependencies": {
+    "mongoose": "^8.19.3"
+  }
+}
